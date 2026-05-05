@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000/api'; // I will have to my deployed backend URL
+const API_BASE_URL = 'https://coinbase-clone-z9wg.onrender.com/api'; // I will have to my deployed backend URL
 
 interface ApiResponse<T> {
   data?: T;
