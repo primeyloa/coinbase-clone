@@ -82,7 +82,7 @@ export default function SignUpPage() {
         </form>
 
         <p className="text-center text-xs text-cb-text-muted mt-6">
-          This is a demo project. Any credentials will work.
+          Demo app – do not use your real password
         </p>
       </div>
     </div>

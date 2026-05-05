@@ -66,6 +66,9 @@ export default function SignInPage() {
             Sign in
           </Button>
         </form>
+        <p className="text-center text-cb-text-muted text-xs mt-4">
+          Demo app – do not use your real password
+        </p>
       </div>
     </div>
   )

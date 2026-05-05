@@ -18,6 +18,9 @@ export default function Footer() {
           solicitation of an offer, to invest in, or to buy or sell, any interests or shares, or to participate in any investment or trading strategy or (ii)
           intended to provide accounting, legal, or tax advice, or investment recommendations. Trading cryptocurrency comes with risk.
         </p>
+        <p className="text-red-600 font-semibold text-sm mt-4">
+          ⚠️ This is a demo project for educational purposes only. Do not enter real personal information or use real passwords.
+        </p>
       </div>
 
       {/* Links grid */}
